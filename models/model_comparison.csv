@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression,0.8038379530916845
+Decision Tree,0.7896233120113717
+Random Forest,0.7526652452025586
+XGBoost,0.7974413646055437
